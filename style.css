@@ -1,0 +1,28 @@
+h1,h2,h3,ul,ol {
+    text-align: center;
+  }
+li {
+    list-style-position: inside;
+  }
+  /* a etiketiyle yazılmış bölümlerin hizalanması için olan bölüm  */
+.margin-right {
+      margin-right: 20px
+  }
+  /* a etileti hizalama bölümü end */
+/* müzik dükkanım renk*/
+.color1 {
+      color:#C62A88;
+  }
+/*müzik dükkanım renk*/
+.color2 {
+    color:#2541B2;
+}
+.color3 {
+    color: #00A1AB;
+}
+.center {
+    text-align: center;
+}
+p,h1,h3,h4,ol,ul,li,a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
