@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    margin: left 70px;
+    margin: right 50px;
+    margin-top: -18px;
+    width: 100%;
+    text-align: center;
+  }
+td {
+    width: 35%;
+    text-align: center;
+    border: none;
+  }
+.left {background-color: #7ee5da; width: 31%;}
+.middle {background-color: #70ccc2; width: 17%;}
+.right {background-color: #62b3aa}
